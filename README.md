@@ -121,34 +121,4 @@ cd smart-inventory
 
 <div align="center">
 
-### 👨‍💻 **Team Lead**
 
-**Nitin Govardhane**  
-[![Email](https://img.shields.io/badge/Email-nitingovardhane000%40gmail.com-red?style=flat-square&logo=gmail)](mailto:nitingovardhane000@gmail.com)
-
-### 👩‍💻 **Team Members**
-
-**Jitesh Borse**  
-[![Email](https://img.shields.io/badge/Email-khushborse92%40gmail.com-red?style=flat-square&logo=gmail)](mailto:khushborse92@gmail.com)
-
-**Vedanti Lakade**  
-[![Email](https://img.shields.io/badge/Email-lakadevedanti%40gmail.com-red?style=flat-square&logo=gmail)](mailto:lakadevedanti@gmail.com)
-
-</div>
-
----
-
-## 📄 License
-
-This project is licensed - see [LICENSE](LICENSE) for details.
-
-## 🌐 Connect with Me
-
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nitingovardhane/)
-- Twitter: [Twitter Profile](https://x.com/blackhawk_vk18)
-
----
-
-<div align="center">
-Made with ❤️ by Smart Inventory Group
-</div>
